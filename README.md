@@ -16,7 +16,7 @@ Para compilar e executar o codigo é necessario que tenha instalado o GCC ou G++
 5- Defina o nome e extensão do arquivo, e pronto!
 
 ## Instalação
-É necessario que os arquivos estejam na mesma pasta para que a compilação ococrra.
+É necessario que os arquivos estejam na mesma pasta para que a compilação ocorra.
 
 ###  Gerando a biblioteca
 
